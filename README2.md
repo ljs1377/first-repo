@@ -9,6 +9,4 @@ hahah~
 hehe~
 xixii~
 
-这是一句中文！
-zhe hai shi yi ju zhong wen!
-This is Englist！
+henhen~
