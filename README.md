@@ -9,4 +9,4 @@ hahah~
 hehe~
 xixii~
 
-henhen~
+这是一句中文！
